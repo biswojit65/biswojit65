@@ -9,16 +9,10 @@
   <a href="https://www.linkedin.com/in/biswojit-mohapatra-95274321a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mbiswojit65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-5★-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/">
+  <a href="https://www.codechef.com/users/biswo123">
     <img src="https://img.shields.io/badge/CodeChef-1758-5B4638?style=flat&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/">
+  <a href="https://www.geeksforgeeks.org/profile/mbiswojit65?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-1224-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
@@ -32,7 +26,6 @@
 - 🧱 Passionate about **distributed systems, event-driven microservices, scalable APIs, and production-grade user experiences**
 - 🎓 B.Tech in Electronics from **IIT Kharagpur** (CGPA 8.70 / 10)
 - 🧩 5-star rated on HackerRank, 1758 on CodeChef, 1224 on GeeksforGeeks, 500+ DSA problems solved
-- 📫 Reach me at **mbiswojit65@gmail.com**
 
 ---
 
@@ -159,24 +152,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biswojit65&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswojit65&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswojit65&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165" />
-  <img src="https://streak-stats.demolab.com?user=biswojit65&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biswojit65&theme=tokyonight&no-frame=true&margin-w=10&column=7" />
-</p>
-
----
-
 ### 🎯 What I'm Exploring Next
 
 - 🧪 Distributed tracing and OpenTelemetry at scale
@@ -190,6 +165,3 @@
   <i>Always open to collaborating on full-stack products, backend systems, open-source, and interesting distributed-systems problems.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biswojit65&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
